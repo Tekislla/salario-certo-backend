@@ -1,0 +1,5 @@
+com\salariocerto\controller\CalculoController.class
+com\salariocerto\dto\CalculoRequestDTO.class
+com\salariocerto\service\CalculoService.class
+com\salariocerto\dto\CalculoResponseDTO.class
+com\salariocerto\SalariocertoApplication.class
